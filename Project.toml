@@ -1,0 +1,4 @@
+[compat]
+Julia = "=1.4.0"
+matplotlib = "=1"
+PyPlot = "=1"
