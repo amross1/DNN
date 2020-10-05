@@ -1,4 +1,6 @@
 [compat]
 Julia = "=1.4.0"
+
+[deps]
 matplotlib = "=1"
 PyPlot = "=1"
