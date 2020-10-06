@@ -1,3 +1,7 @@
+[deps]
+matplotlib
+PyPlot
+
 [compat]
 julia = "=1.4.0"
 matplotlib = "≥ 1.0.0"
