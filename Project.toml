@@ -1,6 +1,6 @@
 [deps]
 matplotlib = "0993f739-f362-4ef5-ab4c-0e10f7843d27"
-PyPlot = "28d1789d-40ba-4e61-958e-180eae10a5fd"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
 
 [compat]
 julia = "=1.4.0"
