@@ -1,2 +1,5 @@
 [compat]
 julia = "=1.4.0"
+
+[deps]
+PyPlot
