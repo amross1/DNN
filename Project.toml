@@ -1,8 +1,6 @@
 [deps]
-matplotlib
-PyPlot
+matplotlib = "≥ 1.0.0"
+PyPlot = "≥ 1.0.0"
 
 [compat]
 julia = "=1.4.0"
-matplotlib = "≥ 1.0.0"
-PyPlot = "≥ 1.0.0"
