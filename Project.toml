@@ -1,6 +1,7 @@
 [deps]
 matplotlib = "0993f739-f362-4ef5-ab4c-0e10f7843d27"
 PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 
 [compat]
 julia = "=1.4.0"
